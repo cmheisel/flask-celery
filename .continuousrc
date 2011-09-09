@@ -1,0 +1,3 @@
+PIP_REQUIREMENTS="requirements/test.txt"
+TEST_COMMAND="nosetests"
+DISABLE_JSLINT="yes"
